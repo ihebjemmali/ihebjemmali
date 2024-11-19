@@ -47,6 +47,18 @@
     </a>
 </p>
 
+### 📱 Contact Information
+<div align="left">
+    <p>
+        <img src="https://img.shields.io/badge/Phone-+216_21384423-70a4fc?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    </p>
+    <p>
+        <a href="mailto:ihebjemmali000@gmail.com">
+            <img src="https://img.shields.io/badge/Email-ihebjemmali000@gmail.com-70a4fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+    </p>
+</div>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=70a4fc&height=100&section=footer" alt="Footer"/>
 </div>
