@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Iheb Jemmali</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=70A4FC&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Iheb+Jemmali;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+</div>
+
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihebjemmali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ihebjemmali&label=Profile%20views&color=70a4fc&style=for-the-badge" alt="Profile views" />
 </p>
 
 ### 👨‍💻 About Me
@@ -27,20 +34,28 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihebjemmali&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihebjemmali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihebjemmali&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihebjemmali&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/iheb-jemmali-71886624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iheb-jemmali-71886624a" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 ### 📞 Contact Information
-- 📱 Phone: +216 21384423
-- 📧 Email: ihebjemmali000@gmail.com
+<p align="left">
+  <img src="https://img.shields.io/badge/Phone-+216_21384423-70a4fc?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  <img src="https://img.shields.io/badge/Email-ihebjemmali000@gmail.com-70a4fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70a4fc&height=100&section=footer" alt="Footer"/>
+</div>
 
 ---
 <p align="center">
