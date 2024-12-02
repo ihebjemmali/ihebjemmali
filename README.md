@@ -43,7 +43,7 @@
 
 ### 📫 Connect with me
 <p align="left">
-    <a href="https://linkedin.com/in/iheb-jemmali-71886624a" target="blank">
+    <a href="https://www.linkedin.com/in/iheb-jemmali/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
