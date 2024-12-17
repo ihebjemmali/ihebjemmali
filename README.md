@@ -41,7 +41,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihebjemmali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihebjemmali&theme=tokyonight" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebjemmali&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ### 📫 Connect with me
